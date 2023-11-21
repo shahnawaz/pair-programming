@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "tsc --build && node ./build/index.js",
+    "test": "tsc --build && node ./build/index.js",
     "build": "tsc --build"
   },
   "devDependencies": {
